@@ -1,0 +1,4 @@
+Financial record
+Account: 12345
+Amount: 5000
+Date: 2026-03-11
